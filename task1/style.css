@@ -1,0 +1,115 @@
+div{
+    height: 1000px;
+    width: 1500px;
+    background-color: white;
+    float: left;
+}
+#nav{
+    height: 100px;
+    width: 1500px;
+    background-color:black;
+    float: left;
+}
+.nav0{
+    height: 100px;
+    width: 190px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav1{
+    height: 100px;
+    width: 190px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav2{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav3{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav4{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+
+}
+.nav5{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left; 
+     text-align: center;
+
+}
+.nav6{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav7{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav8{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.nav9{
+    height: 100px;
+    width: 140px;
+    background-color:black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+#main{
+    height: 1000px;
+    width: 1500px;
+    float: left;
+    background-image: url(C:/Users/admin/Desktop/task1/pexels-anush-gorak-1229356.jpg);
+    background-size: cover;
+    text-align: center;
+}
+span:hover{
+background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    color: black;
+    font-size: 15px;
+}
+
+#bottom{
+height: 50px;
+   width: 1500px;
+   background-color:black ;
+}
